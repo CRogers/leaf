@@ -1,0 +1,28 @@
+﻿.link {
+    stroke: #ccc;
+    stroke-width: 1.5px;
+    fill: none;
+}
+
+.leaf-box {
+    padding: 10px 0;
+}
+
+.leaf-box.tute, .leaf-box.tute .cont, .leaf-box.tute textarea {
+    height: 300px;
+}
+
+.leaf-box textarea {
+    box-sizing: border-box;
+    width: 100%;
+    font-family: 'Consolas', monospace;
+    font-size: 16px;
+}
+
+.leaf-box .below-group {
+    padding-top: 10px;
+}
+
+#toprow {
+    padding-bottom: 20px
+}
